@@ -1,0 +1,45 @@
+# ========================
+# Python & Jupyter Ignore
+# ========================
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+*.env
+
+# ========================
+# OS/System Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Data Files (Optional)
+# ========================
+/data/*.csv
+/data/*.xlsx
+/data/*.json
+/data/*.zip
+
+# Keep a sample dataset if needed
+!data/sample_dataset.csv
+
+# ========================
+# Reports & Outputs
+# ========================
+/outputs/*.csv
+/outputs/*.xlsx
+*.log
+
+# ========================
+# IDE & Editor Settings
+# ========================
+.vscode/
+.idea/
+*.swp
+
+# ========================
+# Tableau & Misc
+# ========================
+*.twb~
+*.bak
