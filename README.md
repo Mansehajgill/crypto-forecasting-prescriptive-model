@@ -54,7 +54,7 @@ This project presents an end-to-end data analytics solution for **forecasting pr
 - Ethereum shows higher trading frequency; Bitcoin shows stronger market dominance.
 
 🖼️ _Dashboard Snapshot_  
-![Tableau Dashboard](images/tableau_dashboard.png)
+![Tableau Dashboard](Images/tableau_dashboard.png)
 
 ---
 
@@ -64,21 +64,31 @@ Visualizing LightGBM feature importance:
 - `Rolling Volatility`, `Lag Features`, and `Fear & Greed` were top predictors.
 
 📷 _Feature Importance Plot_  
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 ---
 
 ## 🧪 Classification Report
 
 📷 _Full Evaluation Metrics_  
-![Classification Report](images/classification_report.png)
+![Classification Report](Images/classification_report.png)
 
 ---
 
 ## 💰 Backtesting Results
 
 📷 _Portfolio Growth Plot_  
-![Backtest Portfolio](images/backtest_portfolio.png)
+![Backtest Portfolio](Images/backtest_portfolio.png)
+
+---
+
+## 🤖 Prescriptive Logic & 3-Hour Signals
+
+- Signals are generated every 3 hours using model output probabilities.
+- A decision tree converts calibrated class probabilities into Buy, Sell, or Hold actions.
+
+📌 _Example Signal Output with Prescriptive Logic Tree_  
+![Prescriptive Signal Tree](Images/prescriptive_tree.png)
 
 ---
 
