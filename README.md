@@ -113,7 +113,7 @@ Visualizing LightGBM feature importance:
 **Mansehaj Singh Gill**  
 📖 Master’s of Data Analytics
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📂 [Project Repository](https://github.com/your-profile/crypto-forecasting-prescriptive-model)
+🔗 [LinkedIn](https://www.linkedin.com/in/mansehaj-singh-gill-333a82277)  
+📂 [Project Repository](https://github.com/Mansehajgill/crypto-forecasting-prescriptive-model)
 
 ---
